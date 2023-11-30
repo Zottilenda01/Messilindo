@@ -37,3 +37,13 @@ body{
 .container_aviso{
     font-size: 10px;
 }
+.secundario_imagem{
+    width: 70%;
+}
+.secundario{
+    align-items: center;
+    margin: -10em 0em;
+}
+.container_descricao{
+    color: black;
+}
